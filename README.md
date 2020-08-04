@@ -1,2 +1,2 @@
 # Isaac-Oliveira
-estou cursando o curso NLW e já estou avançando muito na área de programação 
+Hi there! my  name is isaac and i'm studyng programming on the NLW course
